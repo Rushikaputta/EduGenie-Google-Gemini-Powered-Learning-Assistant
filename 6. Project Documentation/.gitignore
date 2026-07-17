@@ -1,0 +1,15 @@
+# Environments
+.env
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE / Editor config
+.vscode/
+.idea/
+
+# Agent configuration
+.agents/
+.gemini/
